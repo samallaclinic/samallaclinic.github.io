@@ -1,2 +1,2 @@
-# samallaclinic.github.io
-The official Samalla Clinic Repo
+# The official Samalla Clinic Ltd. repository
+Samalla Clinic Ltd. is a 7-bed, 24 hour family run private facility located at New Gbawe, a suburb in Accra. The clinic was established 36 years ago at North Odorkor Official town and later moved to its current location. Ever since it opened its doors the clinic has been providing quality comprehensive medical and diagnostic services. At Samalla Clinic you are guaranteed prompt and professional service at competitive rates.
