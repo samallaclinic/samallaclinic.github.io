@@ -3,15 +3,10 @@ Samalla Clinic Ltd. is a 7-bed, 24 hour family run private facility located at N
 
 ## Contact Information
 338 New Gbawe Road, New Gbawe, Accra - Ghana. 
-
 Tel: (+233) 302 910056 
-
 Email: info@samallaclinic.com 
-
 Digital Addess (GhanaPostGPS): GS-0141-1948
-
 Website: www.samallaclinic.com 
-
 Google Maps: https://g.page/samalla-clinic?share
 
 ![alt text](https://res.cloudinary.com/drsedusa/image/upload/v1594082170/samalla-entrance_k9duwz.jpg "Samalla Clinic Ltd.")
